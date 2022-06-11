@@ -1,6 +1,6 @@
 namespace WebApiKalum.Entities
 {
-    public class Inscripcion
+    public class Incripcion
     {
         public string InscripcionId { get; set; }
         public string Carne { get; set; }

@@ -6,6 +6,6 @@ namespace WebApiKalum.Entities
         public string JornadaId { get; set; } 
         public string Descripción { get; set; }
         public virtual List<Aspirante> Aspirantes { get; set; }
-        public virtual List<Inscripcion> Inscripciones { get; set; }
+        public virtual List<Incripcion> Inscripciones { get; set; }
     }
 }

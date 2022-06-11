@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj": {}
+    "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj": {
+    "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
+        "projectUniqueName": "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
         "projectName": "WebApiKalum",
-        "projectPath": "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
+        "projectPath": "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\obj\\",
+        "outputPath": "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"

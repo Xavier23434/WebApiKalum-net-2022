@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5vDKB8OWNDneNZgowjHThvhMSb4/0eXLII+/nWs2OZT1J7tsdcs5WssiZmH5PIMjbNwHhu5PV5xq4ypJZKJHA==",
+  "dgSpecHash": "xwJMcYLJp+3gJ+1KLsmL/+/3dR/OSafUE5vSUQoHme6cG7e+uWZohSLWmXpNnjfaXqs/Cuh6uYOV5ZIExby0kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xavie\\Documents\\Code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
+  "projectFilePath": "C:\\Users\\xavie\\documents\\code\\2022\\projs\\kinal\\Entity Framework\\WebApiKalum\\WebApiKalum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xavie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\xavie\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.5\\microsoft.aspnetcore.jsonpatch.6.0.5.nupkg.sha512",
